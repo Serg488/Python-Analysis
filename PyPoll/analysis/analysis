@@ -1,0 +1,5 @@
+In this PyPoll sheet we use the information from election_data file in excel.
+Canidates in the data are running for a campaign but the voting in the file is 
+scattered and need to be organized by election results, total votes, names of
+canidates with a percatnage number of their votes and winner of the campaign.
+In my observation the winner was by most popular votes being Diana DeGette!
